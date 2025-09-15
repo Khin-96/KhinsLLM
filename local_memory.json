@@ -1,0 +1,32 @@
+{
+  "Kinga": [
+    {
+      "role": "user",
+      "content": "Hi, I'm Kinga. Please remember my preferences.",
+      "categories": [
+        "intro"
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Kinga! I'll remember your preferences and details.",
+      "categories": [
+        "intro"
+      ]
+    },
+    {
+      "role": "user",
+      "content": "hello why is my voice mode not active?",
+      "categories": [
+        "general"
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Sorry, I hit an error while thinking. Please try again.",
+      "categories": [
+        "general"
+      ]
+    }
+  ]
+}

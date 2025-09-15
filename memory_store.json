@@ -1,0 +1,20 @@
+{
+  "Kinga": [
+    {
+      "text": "User: how many fingers am i holding?",
+      "timestamp": "2025-09-05T09:59:11.314593"
+    },
+    {
+      "text": "Assistant: Sorry, I hit an error while thinking.",
+      "timestamp": "2025-09-05T09:59:11.638330"
+    },
+    {
+      "text": "User: how many fingers am i holding?",
+      "timestamp": "2025-09-05T10:06:43.227096"
+    },
+    {
+      "text": "Assistant: Sorry, I hit an error while thinking.",
+      "timestamp": "2025-09-05T10:06:43.621278"
+    }
+  ]
+}

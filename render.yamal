@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: khinsgpt-agent
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python agent.py --web-only
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0

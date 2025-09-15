@@ -1,0 +1,13 @@
+livekit-agents
+google-generativeai
+python-dotenv
+ytmusicapi
+requests
+opencv-python-headless
+fastapi
+uvicorn
+python-multipart
+langchain-community
+duckduckgo-search
+livekit-agents
+livekit-plugins-google
